@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="97c61fbd-b2bf-4516-8489-26a63816cbf0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cleaned_data/cleaned_tshirts.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cleaned_data/cleaned_tshirts.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tasks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tasks.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
