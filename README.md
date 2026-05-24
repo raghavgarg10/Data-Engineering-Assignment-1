@@ -27,9 +27,10 @@ The dataset used in this assignment is tshirts.csv from an ecommerce dataset col
 
 ---
 ## Files Included
-* assignment.ipynb → Main notebook containing all assignment tasks
-* shirts.csv → Original dataset
-* cleaned_data.csv → Cleaned dataset after preprocessing
+* tasks.ipynb → Main notebook containing all assignment tasks  
+* tshirts.csv → Original dataset  
+* cleaned_tshirts.csv → Cleaned dataset 
+
 
 ---
 ## Learning Outcome
