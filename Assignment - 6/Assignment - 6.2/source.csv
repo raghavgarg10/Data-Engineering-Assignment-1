@@ -1,0 +1,6 @@
+﻿product_id,user_id,category,old_name,price,region,priority,status,amount,base_price
+101,U001,Electronics,Laptop,55000,North,High,Completed,55000,55000
+102,U002,Electronics,Mouse,1200,South,Low,Pending,1200,1200
+103,NULL,Furniture,Chair,3500,North,Medium,Completed,3500,3500
+104,U004,Electronics,Mobile,25000,East,High,Completed,25000,25000
+105,U005,Furniture,Table,NULL,West,Low,Pending,800,800

@@ -1,0 +1,5 @@
+product_id,product_name,category,region,amount,final_price
+101,Laptop,Electronics,North,55000,64900.0
+102,Mouse,Electronics,South,1200,1416.0
+103,Chair,Furniture,North,3500,4130.0
+104,Mobile,Electronics,East,25000,29500.0
